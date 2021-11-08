@@ -1,0 +1,101 @@
+"deviceID";"deviceName";"brand";"OS";"type"
+1;"Plocepasser mahali";"Google";"Android";"Tablet"
+2;"Eudromia elegans";"Google";"Android";"PC"
+3;"Trichoglossus haematodus moluccanus";"Google";"Android";"PC"
+4;"Nasua narica";"Apple";"iOS";"PC"
+5;"Nasua nasua";"Xiaomi";"Android";"Tablet"
+6;"Spermophilus tridecemlineatus";"Xiaomi";"Android";"PC"
+7;"Pseudocheirus peregrinus";"Xiaomi";"Android";"PC"
+8;"Cordylus giganteus";"Xiaomi";"Android";"PC"
+9;"Eolophus roseicapillus";"Samsung";"Android";"Laptop"
+10;"Carduelis pinus";"Xiaomi";"Android";"Phone"
+11;"Mirounga leonina";"Google";"Android";"Tablet"
+12;"Streptopelia decipiens";"Google";"Android";"Laptop"
+13;"Limnocorax flavirostra";"Xiaomi";"Android";"PC"
+14;"Chionis alba";"Apple";"iOS";"Phone"
+15;"Bassariscus astutus";"Apple";"iOS";"Laptop"
+16;"Felis wiedi or Leopardus weidi";"Apple";"iOS";"Laptop"
+17;"Nasua narica";"Apple";"iOS";"Tablet"
+18;"Lepilemur rufescens";"Xiaomi";"Android";"PC"
+19;"Tockus flavirostris";"Apple";"iOS";"PC"
+20;"Bugeranus caruncalatus";"Samsung";"Android";"Tablet"
+21;"Stercorarius longicausus";"Xiaomi";"Android";"Tablet"
+22;"Spermophilus tridecemlineatus";"Samsung";"Android";"Laptop"
+23;"Felis silvestris lybica";"Google";"Android";"Phone"
+24;"Tyto novaehollandiae";"Xiaomi";"Android";"Phone"
+25;"Mycteria ibis";"Apple";"iOS";"PC"
+26;"Naja nivea";"Apple";"iOS";"PC"
+27;"Cebus apella";"Google";"Android";"Laptop"
+28;"Priodontes maximus";"Google";"Android";"Laptop"
+29;"Castor fiber";"Google";"Android";"Laptop"
+30;"Ovibos moschatus";"Apple";"iOS";"Phone"
+31;"Colobus guerza";"Samsung";"Android";"Laptop"
+32;"Zosterops pallidus";"Xiaomi";"Android";"Phone"
+33;"Merops nubicus";"Xiaomi";"Android";"PC"
+34;"Herpestes javanicus";"Xiaomi";"Android";"Laptop"
+35;"Cereopsis novaehollandiae";"Samsung";"Android";"Phone"
+36;"Cervus duvauceli";"Xiaomi";"Android";"PC"
+37;"Parus atricapillus";"Google";"Android";"Phone"
+38;"Salvadora hexalepis";"Samsung";"Android";"Laptop"
+39;"Gyps fulvus";"Apple";"iOS";"Tablet"
+40;"Centrocercus urophasianus";"Apple";"iOS";"Tablet"
+41;"Coluber constrictor";"Apple";"iOS";"PC"
+42;"Canis lupus lycaon";"Samsung";"Android";"PC"
+43;"Bubalornis niger";"Google";"Android";"PC"
+44;"Ovis dalli stonei";"Google";"Android";"Tablet"
+45;"Zonotrichia capensis";"Samsung";"Android";"Phone"
+46;"Priodontes maximus";"Xiaomi";"Android";"Laptop"
+47;"Chionis alba";"Samsung";"Android";"Tablet"
+48;"Sterna paradisaea";"Apple";"iOS";"Phone"
+49;"Panthera pardus";"Xiaomi";"Android";"Tablet"
+50;"Conolophus subcristatus";"Google";"Android";"Phone"
+51;"Francolinus leucoscepus";"Samsung";"Android";"Laptop"
+52;"Ceryle rudis";"Xiaomi";"Android";"PC"
+53;"Vulpes cinereoargenteus";"Samsung";"Android";"Phone"
+54;"Chelodina longicollis";"Xiaomi";"Android";"Laptop"
+55;"Ploceus rubiginosus";"Google";"Android";"Phone"
+56;"Columba palumbus";"Samsung";"Android";"Laptop"
+57;"Colobus guerza";"Google";"Android";"Phone"
+58;"Raphicerus campestris";"Xiaomi";"Android";"Tablet"
+59;"Branta canadensis";"Google";"Android";"Phone"
+60;"Crocodylus niloticus";"Apple";"iOS";"Phone"
+61;"Boa caninus";"Xiaomi";"Android";"PC"
+62;"Microcebus murinus";"Xiaomi";"Android";"PC"
+63;"Lycosa godeffroyi";"Xiaomi";"Android";"PC"
+64;"Ratufa indica";"Apple";"iOS";"PC"
+65;"Dasyurus viverrinus";"Xiaomi";"Android";"Laptop"
+66;"Bubalus arnee";"Samsung";"Android";"Tablet"
+67;"Pteronura brasiliensis";"Xiaomi";"Android";"Laptop"
+68;"Sauromalus obesus";"Google";"Android";"Tablet"
+69;"Delphinus delphis";"Xiaomi";"Android";"Phone"
+70;"Dendrocitta vagabunda";"Samsung";"Android";"Phone"
+71;"Chionis alba";"Xiaomi";"Android";"PC"
+72;"Francolinus coqui";"Xiaomi";"Android";"Phone"
+73;"Ardea golieth";"Google";"Android";"Tablet"
+74;"Corvus albicollis";"Apple";"iOS";"PC"
+75;"Leptoptilus dubius";"Xiaomi";"Android";"Tablet"
+76;"Colobus guerza";"Xiaomi";"Android";"PC"
+77;"Platalea leucordia";"Google";"Android";"PC"
+78;"Cynomys ludovicianus";"Xiaomi";"Android";"Laptop"
+79;"Neotis denhami";"Apple";"iOS";"Laptop"
+80;"Merops nubicus";"Google";"Android";"PC"
+81;"Herpestes javanicus";"Apple";"iOS";"Tablet"
+82;"Martes americana";"Google";"Android";"Phone"
+83;"Meleagris gallopavo";"Samsung";"Android";"Phone"
+84;"Physignathus cocincinus";"Samsung";"Android";"Laptop"
+85;"Ardea golieth";"Xiaomi";"Android";"Phone"
+86;"Felis pardalis";"Google";"Android";"Laptop"
+87;"Dasyurus viverrinus";"Xiaomi";"Android";"Laptop"
+88;"Acanthaster planci";"Xiaomi";"Android";"Laptop"
+89;"Centrocercus urophasianus";"Apple";"iOS";"Tablet"
+90;"Plocepasser mahali";"Google";"Android";"Laptop"
+91;"Naja nivea";"Samsung";"Android";"Phone"
+92;"Varanus sp.";"Xiaomi";"Android";"Tablet"
+93;"Sarcophilus harrisii";"Apple";"iOS";"Phone"
+94;"Meleagris gallopavo";"Google";"Android";"Tablet"
+95;"Vanessa indica";"Samsung";"Android";"Phone"
+96;"Priodontes maximus";"Google";"Android";"Phone"
+97;"Zenaida galapagoensis";"Samsung";"Android";"Phone"
+98;"Salvadora hexalepis";"Google";"Android";"Laptop"
+99;"Pitangus sulphuratus";"Google";"Android";"PC"
+100;"Dasypus novemcinctus";"Apple";"iOS";"Phone"
