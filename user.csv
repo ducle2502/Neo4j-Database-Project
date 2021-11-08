@@ -1,3 +1,4 @@
+"id","firstName","middleName","lastName","DOB","location","userName","mobile","email","passwordHash","registeredAt","cardNumber"
 "1","Karole",NULL,"De Domenici","1981-08-27","Poland","Portugal",NULL,"kdedomenici0@unesco.org","WKlCwNp","2007-12-24 13:17:24","3571186047492053"
 "2","Tyrone",NULL,"Tison","2002-02-04","China","Canada",NULL,"ttison1@alibaba.com","cSnEDbGjq43","2015-09-28 11:21:45","6706746227501147"
 "3","Inglebert",NULL,"Dockery","1995-02-28","China","Germany",NULL,"idockery2@tinypic.com","zoNR6RxC7G","2004-02-21 02:44:48","6333566837367775"
